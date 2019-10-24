@@ -17,7 +17,7 @@ if (!isset($_SESSION)) {
 <div class="row">
     <div class="center card col s10 offset-s1">
         <h5>Bem vindo a nossa histórinha</h5>
-        <p>Olá, </p>
+        <p>Olá,</p>
     </div>
 </div>
 </main>
