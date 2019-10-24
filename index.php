@@ -29,6 +29,8 @@ if (!isset($_SESSION)) {
                 <a class="btn corPadrao2" href="./Tela/dilema1.php">Continuar</a>
             </div>
         </div>
+
+
     </div>
 </main>
 <?php
