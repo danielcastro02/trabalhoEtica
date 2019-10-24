@@ -18,7 +18,7 @@ if (!isset($_SESSION)) {
         <div class="center card col s10 offset-s1">
             <h5>Bem vindo a nossa histórinha</h5>
             <p>Olá, seja bem vindo!</p>
-            <p>Agora você Enzo!</p>
+            <p>Agora é você Enzo!</p>
             <p>Enzo é um empresário de cinama... Quase falido!</p>
             <p>Enzo é casado e não tem filhos</p>
             <p>Enzo é mexicano</p>

@@ -17,9 +17,8 @@
     <div class="row">
         <img src="../Img/gustavinho.png" id="gus" style="display: none; position: fixed; top: 50%; left: 50%; height: 150px; width: auto; z-index: 99999999;">
         <div class="center card col s10 offset-s1">
-            <h5>oi eu sou o titulo</h5>
             <div class="row">
-                <img src="../Img/bird.png" alt="Imagem louca">
+                <img src="../Img/enzopensante.png"  style="height: 300px; width: auto;" alt="Imagem louca">
             </div>
             <div class="row left-align">
                 <div class="col s10 offset-s1">

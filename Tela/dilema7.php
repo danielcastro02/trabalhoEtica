@@ -16,9 +16,8 @@ if (!isset($_SESSION)) {
 <main>
     <div class="row">
         <div class="center card col s10 offset-s1">
-            <h5>oi eu sou o titulo</h5>
             <div class="row">
-                <img src="../Img/bird.png" alt="Imagem louca">
+                <img src="../Img/enzodesesperado.png" style="height: 300px; width: auto;" alt="Imagem louca">
             </div>
             <div class="row left-align">
                 <div class="col s10 offset-s1">
