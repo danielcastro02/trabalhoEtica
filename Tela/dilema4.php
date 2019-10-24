@@ -24,7 +24,7 @@
                 <div class="col s10 offset-s1">
                     <p>Em consequência das suas esolhas você foi a falência</p><br>
                     <p></p>
-                    <p><b>a)</b> Fugir para o México e deixar sua dívida para sua esposa</p>
+                    <p>a) Fugir para o México e deixar sua dívida para sua esposa</p>
                     <p>b) Deixar a dívida e fugir com sua esposa para o México</p>
                     <p>c) Tirar um empréstimo para pagar a dívida e tenta recomeçar</p>
                 </div>
