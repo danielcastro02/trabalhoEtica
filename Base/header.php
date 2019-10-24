@@ -20,11 +20,6 @@ $numeruzinho = 2;
 <meta charset="UTF-8">
 <link rel="stylesheet" href="<?php echo $pontos; ?>css/materialize.css?v=<?php echo $numeruzinho; ?>">
 <link rel="stylesheet" href="<?php echo $pontos; ?>css/custom.css?v=<?php echo $numeruzinho; ?>">
-<link rel="stylesheet" href="<?php echo $pontos; ?>css/tabela-responsiva.css?v=<?php echo $numeruzinho; ?>">
-<link rel="shortcut icon" href="<?php echo $pontos; ?>Img/Src/favicon.png?v=<?php echo $numeruzinho; ?>">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <script type="text/javascript" src="<?php echo $pontos; ?>js/jquery-3.3.1.min.js?v=<?php echo $numeruzinho; ?>"></script>
 <script type="text/javascript" src="<?php echo $pontos; ?>js/materialize.js?v=<?php echo $numeruzinho; ?>"></script>
-<script type="text/javascript" src="<?php echo $pontos; ?>js/chart.bundle.min.js?v=<?php echo $numeruzinho; ?>" ></script>
-<script type="text/javascript" src="<?php echo $pontos; ?>js/mascaras.js?v=<?php echo $numeruzinho; ?>" ></script>
-<script type="text/javascript" src="<?php echo $pontos; ?>js/helpers.js?v=<?php echo $numeruzinho; ?>" ></script>
