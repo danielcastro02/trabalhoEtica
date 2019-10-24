@@ -22,18 +22,12 @@ if (!isset($_SESSION)) {
             </div>
             <div class="row left-align">
                 <div class="col s10 offset-s1">
-                    <p>O seu ator mais experiente descobriu o que você fez e diz que vai quebrar a parceria com você!<br>
-                    E o que você faz Enzo??</p><br>
-                    <p><b>Você pode:</b></p>
-                    <p>a) Ameaça expor o passado conturbado do ator.</p>
-                    <p>b) Reconhece o erro e tenta se reconsiliar com o ator.</p>
-                    <p>c) Manda ele a M%$¨#¨&.</p>
+                    <p>Enzo... Você destruiu a carreia do ator... Cuidado, atores podem ser perigosos!</p>
+                    <p>Passam-se alguns meses, e ao ir para o aeroporto viajar para produzir mais um filme, você é esfaqueado pelas costas.</p>
                 </div>
             </div>
             <div class="row">
-                <a href="dilema5.php" class="btn corPadrao2">A</a>
-                <a href="dilema6.php" class="btn corPadrao2">B</a>
-                <a href="final2.php" class="btn corPadrao2">C</a>
+                <a href="../index.php" class="btn corPadrao2">Tentar de novo!</a>
             </div>
         </div>
     </div>
