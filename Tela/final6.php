@@ -22,16 +22,11 @@
             </div>
             <div class="row left-align">
                 <div class="col s10 offset-s1">
-                    <p>O ator menos experiente aceita, ele não atua tão bem, e os produtores
-                        questionam sua credibilidade</p><br>
-                    <p>Tendo sua credibilidade questionada pelos produtores você:</p>
-                    <p>a) Joga toda a culpa no ator e diz que não sabia que ele seria tão ruim</p>
-                    <p>b) Abre mão de parte dos seus lucros para que os produtores fiquem mais calmos</p>
+                    <p>Pelo fato de você não ter dado o dinheiro, o ator sai espalhando para todo mundo o que você fez... E isso te leva a falência...</p><br>
                 </div>
             </div>
             <div class="row">
-                <a href="final1.php" class="btn corPadrao2">A</a>
-                <a href="final7.php" class="btn corPadrao2">B</a>
+                <a href="dilema4.php" class="btn corPadrao2">Continuar</a>
             </div>
         </div>
     </div>
