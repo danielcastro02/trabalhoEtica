@@ -14,12 +14,24 @@ if (!isset($_SESSION)) {
     <title>Etica</title>
 <body class="homeimg">
 <main>
-<div class="row">
-    <div class="center card col s10 offset-s1">
-        <h5>Bem vindo a nossa histórinha</h5>
-        <p>Olá,</p>
+    <div class="row">
+        <div class="center card col s10 offset-s1">
+            <h5>Bem vindo a nossa histórinha</h5>
+            <p>Olá, seja bem vindo!</p>
+            <p>Agora você Enzo!</p>
+            <p>Enzo é um empresário de cinama... Quase falido!</p>
+            <p>Enzo é casado e não tem filhos</p>
+            <p>Enzo é mexicano</p>
+            <p>Enzo mora no Brasil a 12 anos</p>
+            <p>Este é Enzo</p>
+            <img src="./Img/enzo.png">
+            <div class="row">
+                <a class="btn corPadrao2" href="./Tela/dilema1.php">Continuar</a>
+            </div>
+        </div>
+
+
     </div>
-</div>
 </main>
 <?php
 include_once './Base/footer.php';
